@@ -32,7 +32,7 @@ Markdown is a lightweight markup language based on the formatting conventions th
 
 This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
-### Tech
+### Tecnologias Usadas
 
 Dillinger uses a number of open source projects to work properly:
 
@@ -109,7 +109,7 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
 
-### Development
+### Desenvovilmento MVC
 
 Want to contribute? Great!
 
@@ -123,40 +123,17 @@ First Tab:
 $ node app
 ```
 
-Second Tab:
-```sh
-$ gulp watch
-```
-
-(optional) Third:
-```sh
-$ karma test
-```
-#### Building for source
-For production release:
-```sh
-$ gulp build --prod
-```
-Generating pre-built zip archives for distribution:
-```sh
-$ gulp build dist --prod
-```
 
 
-#### Kubernetes + Google Cloud
-
-See [KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
-
-
-### Todos
+### Próximas Atualizações
 
  - Write MORE Tests
  - Add Night Mode
 
-License
+Desenvolvido por
 ----
 
-MIT
+@Fernandoportugal
 
 
 **Free Software, Hell Yeah!**
