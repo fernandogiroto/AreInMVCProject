@@ -36,11 +36,11 @@ This text you see here is *actually* written in Markdown! To get a feel for Mark
 
 Dillinger uses a number of open source projects to work properly:
 
-* [PHP] - HTML enhanced for web apps!
-* [SQL] - awesome web-based text editor
-* [HTML] - awesome web-based text editor
-* [CSS] - awesome web-based text editor
-* [BOOTSTRAP] - awesome web-based text editor
+* [PHP] - Hypertext Preprocessor
+* [SQL] - Structured Query Languager
+* [HTML] - Hyper Text Markup Language
+* [CSS] - Cascading Style Sheets
+* [BOOTSTRAP] - Framework front-end responsivo
 
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
@@ -119,5 +119,5 @@ Model-View-Controller (em português: Arquitetura Modelo-Visão-Controle - MVC)
 Desenvolvido por
 ----
 
-@Fernandoportugal
+[@Fernandoportugal](https://fernandoportugal.com)
 
