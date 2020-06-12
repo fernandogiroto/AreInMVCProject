@@ -113,8 +113,8 @@ $ node app
 
 ### Próximas Atualizações
 
- - Write MORE Tests
- - Add Night Mode
+ - Download em pdf do relatório gerencial semanal
+ - Novas colunas nas tabelas (cargo, tempo na empresa)
 
 Desenvolvido por
 ----
