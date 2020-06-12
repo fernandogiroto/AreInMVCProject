@@ -36,15 +36,11 @@ This text you see here is *actually* written in Markdown! To get a feel for Mark
 
 Dillinger uses a number of open source projects to work properly:
 
-* [AngularJS] - HTML enhanced for web apps!
-* [Ace Editor] - awesome web-based text editor
-* [markdown-it] - Markdown parser done right. Fast and easy to extend.
-* [Twitter Bootstrap] - great UI boilerplate for modern web apps
-* [node.js] - evented I/O for the backend
-* [Express] - fast node.js network app framework [@tjholowaychuk]
-* [Gulp] - the streaming build system
-* [Breakdance](https://breakdance.github.io/breakdance/) - HTML to Markdown converter
-* [jQuery] - duh
+* [PHP] - HTML enhanced for web apps!
+* [SQL] - awesome web-based text editor
+* [HTML] - awesome web-based text editor
+* [CSS] - awesome web-based text editor
+* [BOOTSTRAP] - awesome web-based text editor
 
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
@@ -86,13 +82,6 @@ CREATE TABLE working_hours (
 INSERT INTO users (id, name, password, email, start_date, end_date, is_admin)
 VALUES (1, 'Admin', '$2y$10$/vC1UKrEJQUZLN2iM3U9re/4DQP74sXCOVXlYXe/j9zuv1/MHD4o.', 'admin@cod3r.com.br', '2000-1-1', null, 1);
 
-```
-
-For production environments...
-
-```sh
-$ npm install --production
-$ NODE_ENV=production node app
 ```
 
 ### Plugins
