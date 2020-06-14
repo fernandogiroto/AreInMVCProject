@@ -86,16 +86,13 @@ VALUES (1, 'Admin', '$2y$10$/vC1UKrEJQUZLN2iM3U9re/4DQP74sXCOVXlYXe/j9zuv1/MHD4o
 
 ### Desenvolvimento & Atualizações
 
-Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
+Abaixo vou colocando as informações referentes ao desenvolvimento e as atualizações que vou fazendo neste projeto.
 
 | Data | DESCRIÇÃO |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| 14/Jun/2020 | Correções de CSS |
+| 12/Jun/2020 | Primeiro Commit do Projeto. |
+
 
 
 ### Desenvovilmento MVC
