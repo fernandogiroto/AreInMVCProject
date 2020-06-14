@@ -3,11 +3,7 @@
 [![N|Solid](https://fernandoportugal.com/php.jpg)](http://fernandoportugal.com/projeto_mvc)
 
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
-
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
+Projeto para pequenas empresas 
 
 # Sobre o projeto
 
