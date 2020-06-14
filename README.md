@@ -20,7 +20,11 @@ Após os diversos cursos que venho fazendo para aprender cada vez melhor a lingu
   - Registro dos pontos entrada, entrada almoço, saída almoço, saída.
   - Relatório mensal dos pontos 
   - Saldos de horas trabalhadas 
-  - Rel
+  - Relátorio gerencial com Qtde. de Funcionários
+  - Faltas e horas no mês de cada funcionário
+  - Quadro de usuários
+  - Paineis para usuários e admin
+  - Gestão da conta
 
 
 > The overriding design goal for Markdown's
