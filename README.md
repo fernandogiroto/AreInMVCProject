@@ -1,6 +1,6 @@
 # AreIn - PHP Project MVC
 
-[![N|Solid](https://fernandoportugal.com/php.jpg)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://fernandoportugal.com/php.jpg)](http://fernandoportugal.com/projeto_mvc)
 
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
@@ -11,16 +11,11 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
 
 # Sobre o projeto
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Projeto do Zero usando PHP, HTML, CSS & Bootstrap 4
+  - Projeto utilizando o padrão de desenvolvimento MVV
 
 
-You can also:
-  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
-  - Drag and drop markdown and HTML files into Dillinger
-  - Export documents as Markdown, HTML and PDF
-
-Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
+Após os diversos cursos que venho fazendo para aprender cada vez melhor a linguagens de programação PHP e SQL, venho somando a este estudo o padrão de desenvolvimento MVC ( Model-View-Controller (em português: Arquitetura Modelo-Visão-Controle - MVC)). Arquitetei então o projeto de gestão e controlo de funcionários para um empresa. No software criado, são estas as funcionalidade:
 
 > The overriding design goal for Markdown's
 > formatting syntax is to make it as readable
@@ -104,7 +99,6 @@ MVC é um padrão de projeto de software, ou padrão de arquitetura de software 
 
 Normalmente usado para o desenvolvimento de interfaces de usuário que divide uma aplicação partes (camadas/componentes) interconectadas. Isto é feito para separar representações de informação internas dos modos como a informação é apresentada para e aceita pelo usuário, levando ao desenvolvimento paralelo de maneira eficiente.
 
-First Tab:
 ```sh
 Model-View-Controller (em português: Arquitetura Modelo-Visão-Controle - MVC)
 ```
