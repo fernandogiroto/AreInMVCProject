@@ -1,13 +1,5 @@
 <main class="content">
-<div class="media pb-5">
-        <img src="https://fernandoportugal.com/img/fernando_portugal_designer_sobre.jpg" class="mr-3 rounded shadow" style="width: 64px;" alt="...">
-        <div class="media-body">
-            <h5 class="mt-0">AreIn - MVC Project</h5>
-            Orgulhosamente apresento o meu primeiro projeto PHP utilizando o método MVC (MODEL VIEWS CONTROLLER) para a apresentação ao professor Leonardo Campos da Universidade de Michigan para o curso de arquitetura MVC lecionado na plataforma Coursera.
-            Foram 2 meses de projeto e escolhi o tema de cadastro, registros e edições voltados para controle e gestão de funcionários. Fornecendo ao administrador a possibilidade de controle de todos os pontos de entra e saída,
-            gerar planilhas em excel de todos os relatórios e ao usuário comum a gestão de suas próprias informações.
-        </div>
-    </div>
+
 
     <?php
         renderTitle(
