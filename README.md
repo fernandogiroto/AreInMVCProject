@@ -15,7 +15,7 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
   - Projeto utilizando o padrão de desenvolvimento MVV
 
 
-Após os diversos cursos que venho fazendo para aprender cada vez melhor a linguagens de programação PHP e SQL, venho somando a estes estudos o padrão de desenvolvimento MVC (Model-View-Controller (em português: Arquitetura Modelo-Visão-Controle - MVC)). e arquitetei então um projeto de gestão e controle de funcionários para um empresa. Neste software que criei são estas as funcionalidades até então:
+Após os diversos cursos que venho fazendo para aprender cada vez melhor a linguagens de programação PHP e SQL, venho somando a estes estudos o padrão de desenvolvimento MVC (Model-View-Controller (em português: Arquitetura Modelo-Visão-Controle - MVC)) e arquitetei então um projeto de gestão e controle de funcionários para um empresa. Neste software que criei são estas as funcionalidades até então:
 
 > The overriding design goal for Markdown's
 > formatting syntax is to make it as readable
