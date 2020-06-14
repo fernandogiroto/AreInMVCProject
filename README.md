@@ -3,7 +3,7 @@
 [![N|Solid](https://fernandoportugal.com/php.jpg)](http://fernandoportugal.com/projeto_mvc)
 
 
-Projeto para pequenas empresas 
+Projeto para pequenas empresas de gestão de funcionários feito em php, sql, arquitetato em mvc.
 
 # Sobre o projeto
 
@@ -11,7 +11,7 @@ Projeto para pequenas empresas
   - Projeto utilizando o padrão de desenvolvimento MVV
 
 
-Após os diversos cursos que venho fazendo para aprender cada vez melhor a linguagens de programação PHP e SQL, venho somando a estes estudos o padrão de desenvolvimento MVC (Model-View-Controller (em português: Arquitetura Modelo-Visão-Controle - MVC)) e arquitetei então um projeto de gestão e controle de funcionários para um empresa. Neste software que criei são estas as funcionalidades até então:
+Após os diversos cursos que venho fazendo para aprender cada vez melhor a linguagens de programação **PHP** e **SQL**, venho somando a estes estudos o padrão de desenvolvimento **MVC** (Model-View-Controller (em português: Arquitetura Modelo-Visão-Controle - MVC)). Arquitetei então um projeto de gestão e controle de funcionários para uma empresa com estas funcionalidades até então:
 
   - Registro dos pontos entrada, entrada almoço, saída almoço, saída.
   - Relatório mensal dos pontos 
