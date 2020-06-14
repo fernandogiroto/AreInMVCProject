@@ -15,7 +15,7 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
   - Projeto utilizando o padrão de desenvolvimento MVV
 
 
-Após os diversos cursos que venho fazendo para aprender cada vez melhor a linguagens de programação PHP e SQL, venho somando a este estudo o padrão de desenvolvimento MVC ( Model-View-Controller (em português: Arquitetura Modelo-Visão-Controle - MVC)). Arquitetei então o projeto de gestão e controlo de funcionários para um empresa. No software criado, são estas as funcionalidade:
+Após os diversos cursos que venho fazendo para aprender cada vez melhor a linguagens de programação PHP e SQL, venho somando a estes estudos o padrão de desenvolvimento MVC (Model-View-Controller (em português: Arquitetura Modelo-Visão-Controle - MVC)). Arquitetei então um projeto de gestão e controle de funcionários para um empresa. Neste software que criei são estas as funcionalidades até então:
 
 > The overriding design goal for Markdown's
 > formatting syntax is to make it as readable
@@ -37,14 +37,10 @@ Dillinger uses a number of open source projects to work properly:
 * [CSS] - Cascading Style Sheets
 * [BOOTSTRAP] - Framework front-end responsivo
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
 
 ### Instalação
 
-Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
-
-Install the dependencies and devDependencies and start the server.
+Criar um schema no SQL com o nome arein e rodar estes comandos SQL abaixo: 
 
 ```sh
 USE AREIN;
