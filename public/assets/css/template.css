@@ -257,3 +257,29 @@ footer.footer {
 .summary-box .value {
     font-size: 2rem;
 }
+
+.bg-success {
+background-image: linear-gradient(to left, #48d6a8 0%, #029666 100%) !important;
+border: none;
+}
+
+.bg-danger {
+background-image: linear-gradient(45deg, #f93a5a, #f7778c) !important;
+border: none;
+}
+.bg-primary {
+background-image: linear-gradient(to left, #7eddf7 0%, #bac9e0 100%) !important;
+
+border: none;
+}
+.bg-warning {
+background-image: linear-gradient(to left, #efa65f, #f76a2d) !important;
+border: none;
+}
+
+.list-group-item.active {
+    z-index: 2;
+    color: #565656;
+    background-color: #f1f1f1;
+    border-color: #f1f1f1;
+}
