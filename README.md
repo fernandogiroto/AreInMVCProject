@@ -92,7 +92,7 @@ Normalmente usado para o desenvolvimento de interfaces de usuário que divide um
 Model-View-Controller (em português: Arquitetura Modelo-Visão-Controle - MVC)
 ```
 
-
+[![N|Solid](https://fernandoportugal.com/php.jpg)](https://fernandoportugal.com/img/mvcpro.png)
 
 ### Próximas Atualizações
 
