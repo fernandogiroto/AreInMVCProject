@@ -94,6 +94,7 @@ Model-View-Controller (em português: Arquitetura Modelo-Visão-Controle - MVC)
 
 [![N|Solid](https://fernandoportugal.com/php.jpg)](https://fernandoportugal.com/img/mvcpro.png)
 
+
 ### Próximas Atualizações
 
  - Download em pdf do relatório gerencial semanal
