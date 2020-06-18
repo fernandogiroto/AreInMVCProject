@@ -8,7 +8,7 @@ Projeto para pequenas empresas de gestão de funcionários feito em php, sql, ar
 # Sobre o projeto
 
   - Projeto do Zero usando PHP, HTML, CSS & Bootstrap 4
-  - Projeto utilizando o padrão de desenvolvimento MVV
+  - Projeto utilizando o padrão de desenvolvimento MVC
 
 
 Após os diversos cursos que venho fazendo para aprender cada vez melhor a linguagens de programação **PHP** e **SQL**, venho somando a estes estudos o padrão de desenvolvimento **MVC** (Model-View-Controller (em português: Arquitetura Modelo-Visão-Controle - MVC)). Arquitetei então um projeto de gestão e controle de funcionários para uma empresa com estas funcionalidades até então:
